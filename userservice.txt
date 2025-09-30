@@ -1,0 +1,4 @@
+get the users data.....
+admin?
+usr>\?
+administrator?
