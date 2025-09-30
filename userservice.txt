@@ -1,0 +1,9 @@
+get the users data.....
+admin?
+usr>\?
+administrator?
+the admin is the owner of the system (granular permission)
+read permision for all user 
+
+
+na my oga get the his sit
